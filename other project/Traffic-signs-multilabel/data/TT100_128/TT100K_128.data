@@ -1,0 +1,6 @@
+classes = 221
+train = data/TT100K_128train.txt
+valid = data/TT100K_128test.txt
+names = /home/dell/桌面/PycharmProjects/yolov3/data/TT100K128.names # 记录类别
+backup = backup/ # 记录checkpoint存放位置
+eval = coco # 选择map计算方式

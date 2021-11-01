@@ -1,0 +1,6 @@
+{
+  "prohibitory": 1,
+  "danger": 2,
+  "mandatory": 3,
+  "other": 4
+}

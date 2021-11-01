@@ -1,0 +1,9 @@
+classes = 3
+train = data/TT100K_train.txt
+valid = data/TT100K_test.txt
+names = data/tt100k_three.names # 记录类别 #修改utils.py
+backup = backup/ # 记录checkpoint存放位置
+eval = coco # 选择map计算方式
+
+
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbf1a783-6e07-49b3-8c63-7ff78895eaac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../multilabel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3-spp.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3-spp.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco.names" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco1.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco16.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco1cls.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco1cls.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco2014.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco2017.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco64.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/coco_paper.names" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/get_coco2014.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/get_coco2017.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/samples/bus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/samples/zidane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utils/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/evolve.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../utils/evolve.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/gcp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../utils/gcp.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/torch_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utils/torch_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weights/download_yolov3_weights.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="bcd7a868-9dcd-4ea7-a3dd-8364aef63f06" />
+  <component name="ProjectId" id="1mgRWTk1bL1ls3kCr5p51BGvyTo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../guangdong" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbf1a783-6e07-49b3-8c63-7ff78895eaac" name="Default Changelist" comment="" />
+      <created>1609913279616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609913279616</updated>
+      <workItem from="1609913280758" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1609913306111">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1609913306111" />
+  </component>
+</project>

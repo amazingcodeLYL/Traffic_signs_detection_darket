@@ -1,0 +1,6 @@
+classes= 45
+train  = /home/dell/桌面/PycharmProjects/Traffic-signs-multilabel/data/2007_train.txt
+valid  = /home/dell/桌面/PycharmProjects/Traffic-signs-multilabel/data/2007_test.txt
+names = data/tt100k.names
+backup = backup
+

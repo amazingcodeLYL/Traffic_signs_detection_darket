@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a88b9a2-d0d4-4d06-be45-007ec98264cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/multilabel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfg/yolov3-spp.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/yolov3-spp.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfg/yolov3.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/yolov3.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco.names" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco1.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco16.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco1cls.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco1cls.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco2014.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco2017.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco64.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco_paper.names" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/get_coco2014.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/get_coco2017.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/samples/bus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/samples/zidane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/evolve.sh" beforeDir="false" afterPath="$PROJECT_DIR$/utils/evolve.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/gcp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/utils/gcp.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/torch_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/torch_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/download_yolov3_weights.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="bcd7a868-9dcd-4ea7-a3dd-8364aef63f06" />
+  <component name="ProjectId" id="1hoBIUO2nAFLLAEkpocqz1Agwh5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../deep_sort_pytorch" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/TT100_128" />
+      <recent name="$PROJECT_DIR$/weights/TT100K3" />
+      <recent name="$PROJECT_DIR$/best_weight_TT100Kone" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cfg" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data_processing" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data/samples/test_images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="coco_predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Traffic-signs-multilabel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coco_predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_yolov3" type="PythonConfigurationType" factoryName="Python">
+      <module name="Traffic-signs-multilabel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Traffic-signs-multilabel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt100k_to_voc_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Traffic-signs-multilabel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_processing/tt100k_to_voc_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt100k_to_voc_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Traffic-signs-multilabel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_processing/tt100k_to_voc_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for coco_predict.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Traffic-signs-multilabel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;coco_predict.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_yolov3" />
+      <item itemvalue="Python.coco_predict" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.tt100k_to_voc_test" />
+      <item itemvalue="Python.tt100k_to_voc_train" />
+      <item itemvalue="Python tests.pytest for coco_predict.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.tt100k_to_voc_test" />
+        <item itemvalue="Python.tt100k_to_voc_train" />
+        <item itemvalue="Python.coco_predict" />
+        <item itemvalue="Python tests.pytest for coco_predict.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a88b9a2-d0d4-4d06-be45-007ec98264cd" name="Default Changelist" comment="" />
+      <created>1600667484964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600667484964</updated>
+      <workItem from="1600667485999" duration="685000" />
+      <workItem from="1603442098114" duration="14501000" />
+      <workItem from="1603702065286" duration="51481000" />
+      <workItem from="1603880804718" duration="6247000" />
+      <workItem from="1603931175061" duration="6519000" />
+      <workItem from="1604018921300" duration="2374000" />
+      <workItem from="1604040618350" duration="12309000" />
+      <workItem from="1604121563645" duration="15000" />
+      <workItem from="1604144050637" duration="21191000" />
+      <workItem from="1604213062014" duration="1372000" />
+      <workItem from="1604225605570" duration="42334000" />
+      <workItem from="1604365653208" duration="15189000" />
+      <workItem from="1604400224840" duration="4018000" />
+      <workItem from="1604415464495" duration="607000" />
+      <workItem from="1604538265635" duration="141095000" />
+      <workItem from="1605184178596" duration="19000" />
+      <workItem from="1605253164124" duration="320000" />
+      <workItem from="1605599434146" duration="486000" />
+      <workItem from="1606041418324" duration="38000" />
+      <workItem from="1607658627911" duration="1415000" />
+      <workItem from="1607664531746" duration="1860000" />
+      <workItem from="1607852715334" duration="572000" />
+      <workItem from="1609739342382" duration="2122000" />
+      <workItem from="1609743425218" duration="2320000" />
+      <workItem from="1609899977671" duration="570000" />
+      <workItem from="1609913236004" duration="43000" />
+      <workItem from="1612332492667" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="365" width="1084" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604383567962">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="710" y="365" width="1084" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1604383567962" />
+    <state x="718" y="287" key="#xdebugger.evaluate" timestamp="1604243728458">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="718" y="287" key="#xdebugger.evaluate/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1604243728458" />
+    <state x="100" y="125" width="1720" height="855" key="DiffContextDialog" timestamp="1605078267055">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="125" width="1720" height="855" key="DiffContextDialog/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605078267055" />
+    <state x="259" y="292" width="657" height="415" key="FileChooserDialogImpl" timestamp="1612332532018">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="570" y="262" width="401" height="344" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1606041450230" />
+    <state x="684" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1604997219224" />
+    <state x="1106" y="308" width="401" height="414" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1600.900@1920.0.1600.900" timestamp="1604839989058" />
+    <state x="259" y="292" width="657" height="415" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1612332532018" />
+    <state width="774" height="461" key="GridCell.Tab.0.bottom" timestamp="1609854895169">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1548" height="229" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1607672062983" />
+    <state width="1359" height="231" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605184196774" />
+    <state width="1548" height="341" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1600.900@1920.0.1600.900" timestamp="1605090475861" />
+    <state width="774" height="461" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1609854895169" />
+    <state width="774" height="461" key="GridCell.Tab.0.center" timestamp="1609854895169">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1548" height="229" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1607672062982" />
+    <state width="1359" height="231" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605184196774" />
+    <state width="1548" height="341" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1600.900@1920.0.1600.900" timestamp="1605090475861" />
+    <state width="774" height="461" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1609854895169" />
+    <state width="774" height="461" key="GridCell.Tab.0.left" timestamp="1609854895168">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1548" height="229" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1607672062982" />
+    <state width="1359" height="231" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605184196774" />
+    <state width="1548" height="341" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1600.900@1920.0.1600.900" timestamp="1605090475861" />
+    <state width="774" height="461" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1609854895168" />
+    <state width="774" height="461" key="GridCell.Tab.0.right" timestamp="1609854895169">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1548" height="229" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1607672062982" />
+    <state width="1359" height="231" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605184196774" />
+    <state width="1548" height="341" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1600.900@1920.0.1600.900" timestamp="1605090475861" />
+    <state width="774" height="461" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1609854895169" />
+    <state width="1868" height="462" key="GridCell.Tab.1.bottom" timestamp="1605073327591">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1868" height="462" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605073327591" />
+    <state width="1868" height="462" key="GridCell.Tab.1.center" timestamp="1605073327591">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1868" height="462" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605073327591" />
+    <state width="1868" height="462" key="GridCell.Tab.1.left" timestamp="1605073327591">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1868" height="462" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605073327591" />
+    <state width="1868" height="462" key="GridCell.Tab.1.right" timestamp="1605073327591">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1868" height="462" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605073327591" />
+    <state x="219" y="232" key="SettingsEditor" timestamp="1609740199367">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="434" y="187" key="SettingsEditor/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605078266697" />
+    <state x="219" y="232" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1609740199367" />
+    <state x="100" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1604371549530">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1604371549530" />
+    <state x="1920" y="33" width="1236" height="867" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604044183510">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="1920" y="33" width="1236" height="867" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053/1920.0.1600.900@1920.0.1600.900" timestamp="1604044183510" />
+    <state x="128" y="180" width="1583" height="900" key="dock-window-1" timestamp="1605077830271">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="128" y="180" width="1583" height="900" key="dock-window-1/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605077830271" />
+    <state x="1920" y="192" width="1558" height="708" key="dock-window-2" timestamp="1605077830272">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="1920" y="192" width="1558" height="708" key="dock-window-2/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605077830271" />
+    <state x="871" y="151" width="632" height="676" key="find.popup" timestamp="1605055879675">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="871" y="151" width="632" height="676" key="find.popup/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1605055879675" />
+    <state x="2456" y="189" width="598" height="610" key="find.popup/0.27.1920.1053/1920.0.1600.900@1920.0.1600.900" timestamp="1604044602638" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1604312589592">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1604312589592" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/datasets.py</url>
+          <line>525</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$eval.coverage" NAME="eval Coverage Results" MODIFIED="1605076890553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_processing" />
+    <SUITE FILE_PATH="coverage/yolov3$utils.coverage" NAME="utils Coverage Results" MODIFIED="1604150985357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/yolov3$train.coverage" NAME="train Coverage Results" MODIFIED="1604144534339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$tt100k_to_voc_train.coverage" NAME="tt100k_to_voc_train Coverage Results" MODIFIED="1605253476483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_processing" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$train.coverage" NAME="train Coverage Results" MODIFIED="1609744078057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov3$datasets.coverage" NAME="datasets Coverage Results" MODIFIED="1603697162583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/yolov3$trans_voc2yolo.coverage" NAME="trans_voc2yolo Coverage Results" MODIFIED="1603941031484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_processing" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1604314366092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$train_vehicle_multilabeltest2.coverage" NAME="train_vehicle_multilabeltest2 Coverage Results" MODIFIED="1604367636156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel" />
+    <SUITE FILE_PATH="coverage/yolov3$torch_utils.coverage" NAME="torch_utils Coverage Results" MODIFIED="1603768972884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$coco_predict.coverage" NAME="coco_predict Coverage Results" MODIFIED="1605078745373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov3$detect.coverage" NAME="detect Coverage Results" MODIFIED="1604155265680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$detect__1_.coverage" NAME="detect (1) Coverage Results" MODIFIED="1604212149091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$test_yolov3.coverage" NAME="test_yolov3 Coverage Results" MODIFIED="1605184190769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$pytest_for_test_test.coverage" NAME="pytest for test.test Coverage Results" MODIFIED="1604382967792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$xml2txt.coverage" NAME="xml2txt Coverage Results" MODIFIED="1604582046974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TT100K" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$pytest_for_coco_predict_test.coverage" NAME="pytest for coco_predict.test Coverage Results" MODIFIED="1605078252726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov3$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1603848377616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$train_vehicle_multilabel.coverage" NAME="train_vehicle_multilabel Coverage Results" MODIFIED="1604286279889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$detect.coverage" NAME="detect Coverage Results" MODIFIED="1604384293195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$utils.coverage" NAME="utils Coverage Results" MODIFIED="1605077294306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$parse_config.coverage" NAME="parse_config Coverage Results" MODIFIED="1605077911118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1604383422391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov3$voc_label.coverage" NAME="voc_label Coverage Results" MODIFIED="1603940802583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_processing" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1604197050979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$train_128classes.coverage" NAME="train_128classes Coverage Results" MODIFIED="1604540247862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Traffic_signs_multilabel$dataset_read2.coverage" NAME="dataset_read2 Coverage Results" MODIFIED="1604367605278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel" />
+  </component>
+</project>
