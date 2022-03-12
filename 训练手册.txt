@@ -1,3 +1,4 @@
+./darknet detector train tt100k/tt100k.data yolov4-tt100k.cfg yolov4.conv.137 -map -dont_show
 ./darknet detector test tt100k/tt100k.data tt100k/wenjian/yolov3.cfg backup/yolov3_best.weights -ext_output -dont_show -out result.json < 2007_test.txt
 
 ./darknet detector test tt100k/tt100k.data tt100k/yolov3_pannet_152_76_38_nores2net.cfg tt100k/yolov3_pannet_152_76_38_nores2net_best.weights 
@@ -7,4 +8,4 @@
 
 
 ./darknet detector test tt100k/tt100k.data yolov4-tt100k.cfg yolov4-tt100k_best.weights /home/dell/桌面/darknet/VOCdevkit/VOC2007/JPEGImages/12186.jpg
-
+./darknet detector map  tt100k/tt100k.data tt100k/yolov4-tt100k.cfg tt100k/yolov4-tt100k_best.weights
